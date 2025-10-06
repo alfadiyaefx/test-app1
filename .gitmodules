@@ -1,0 +1,3 @@
+[submodule "vendor/electrifex/android/submodule"]
+	path = vendor/electrifex/android/submodule
+	url = git@github.com:alfadiyaefx/test-app2.git
